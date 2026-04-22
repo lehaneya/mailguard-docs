@@ -14,7 +14,7 @@ MailGuard offers flexible plans to fit businesses of any size. Start with a free
 
 ## Plans at a Glance
 
-### Standard Plan — $20/month
+### Standard Plan — $24.99/month
 
 Best for: Small businesses, startups, single-domain monitoring
 
@@ -28,7 +28,7 @@ Best for: Small businesses, startups, single-domain monitoring
 - Public security page (shareable with stakeholders)
 - Embeddable security badge
 
-### Premium Plan — $30/month
+### Premium Plan — $44.99/month
 
 Best for: Growing companies, security-conscious teams, enterprises
 
@@ -48,13 +48,13 @@ Best for: Growing companies, security-conscious teams, enterprises
 
 ### Additional Domains
 
-Want to monitor more domains? Add them anytime for **$9.99/month each**.
+Want to monitor more domains? Add them anytime for **$6.99/month each**.
 
 **Example pricing:**
-- Standard plan (1 domain): $20/month
-- Standard + 2 additional domains: $20 + $19.98 = $39.98/month
-- Premium plan (1 domain): $30/month
-- Premium + 5 additional domains: $30 + $49.95 = $79.95/month
+- Standard plan (1 domain): $24.99/month
+- Standard + 2 additional domains: $24.99 + $13.98 = $38.97/month
+- Premium plan (1 domain): $44.99/month
+- Premium + 5 additional domains: $44.99 + $34.95 = $79.94/month
 
 ---
 
@@ -92,7 +92,7 @@ When your 14-day trial is ending (or anytime during):
 3. Click **"Start 14-day free trial"** on Standard
 4. You'll be redirected to Stripe to enter payment info
 5. Choose:
-   - **Monthly billing** ($20/month, cancel anytime)
+   - **Monthly billing** ($24.99/month, cancel anytime)
    - Or save your payment for after trial ends
 6. Confirm subscription
 
@@ -130,7 +130,7 @@ Downgrade from Premium to Standard anytime. No penalty.
 3. Under "Plan," select **Standard**
 4. Confirm downgrade
 5. You lose Premium features (AI, DMARC reports) immediately, but AI analyses are archived
-6. Monthly charge drops to $20/month
+6. Monthly charge drops to $24.99/month
 
 **Note:** If you have more than 1 domain, you'll be billed for additional domain slots, even on Standard plan.
 
@@ -167,12 +167,12 @@ You need more domains to monitor? Add them anytime, even mid-month.
 2. Look for "Additional Domain Slot" section
 3. Click **"Purchase additional domain slot"** (or "Add domain slot")
 4. You go to Stripe checkout
-5. Confirm purchase: $9.99/month
+5. Confirm purchase: $6.99/month
 6. You can immediately add a new domain in MailGuard
 
 ### Billing for Additional Domains
 
-- **Monthly charge:** $9.99 per additional domain
+- **Monthly charge:** $6.99 per additional domain
 - **Prorated:** If purchased mid-month, you pay a prorated amount
 - **Cancel anytime:** Stop paying when you remove the domain
 
@@ -278,9 +278,9 @@ If a payment fails (expired card, insufficient funds, etc.):
 MailGuard offers **pro-rata refunds** if you cancel mid-month.
 
 **Example:**
-- Charged $20 on April 1 (Standard plan)
+- Charged $24.99 on April 1 (Standard plan)
 - Cancel on April 15 (after 15 days)
-- Refund: ~$10 (refund for unused days)
+- Refund: ~$12 (refund for unused days)
 
 **Process:**
 1. Cancel subscription in Stripe
@@ -319,7 +319,7 @@ MailGuard offers **pro-rata refunds** if you cancel mid-month.
 - **Upgrade:** You pay the difference for the remaining days at the higher rate
 - **Downgrade:** You receive a pro-rata credit for remaining days
 
-**Example:** It's April 15. You're on Standard ($20/month). You upgrade to Premium ($30/month). You pay ~$5 for the remaining 15 days of April.
+**Example:** It's April 15. You're on Standard ($24.99/month). You upgrade to Premium ($44.99/month). You pay ~$5 for the remaining 15 days of April.
 
 ---
 
